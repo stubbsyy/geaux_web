@@ -3,7 +3,7 @@
 window.geauxLaunch = {
   raised: 25,
   goal: 300,
-  updated: "", // e.g. "September 15, 2026" — update with the confirmed total
+  updated: "September 18, 2026",
   supportURL: "https://buymeacoffee.com/frostedplanet",
   discordURL: "https://discord.gg/GFHPEzPxmA",
   testFlightURL: "https://testflight.apple.com/join/dQbw7aDW",
