@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="510" height="570" preserveAspectRatio="xMinYMin meet" viewBox="0 0 510 570" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="510" height="570"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-570)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="120" y="517" width="270" height="42" rx="6" ry="6" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,94%,94%); fill-rule: evenodd;"/>
+			<text x="178.095" y="544.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,1088) scale(1,-1)">iOS routes -&gt; packetFlow.readPackets</text>
+			<text x="175.7145" y="532.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,1064) scale(1,-1)">Only captured IP packets enter this flow</text>
+			<path d="M 255,517 L 255,491 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="252 497, 255 491, 258 497" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="120" y="443" width="270" height="48" rx="6" ry="6" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,94%,94%); fill-rule: evenodd;"/>
+			<text x="213.474" y="473.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,946) scale(1,-1)">Geauxhole enabled?</text>
+			<text x="166.46249999999998" y="461.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,922) scale(1,-1)">Rust batch evaluation; Swift bypass override</text>
+			<path d="M 390,477 L 490,477 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="484 474, 490 477, 484 480" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<text x="444.0" y="482.0" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,964) scale(1,-1)">Off</text>
+			<path d="M 490,477 L 490,303 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="487 309, 490 303, 493 309" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 120,463 L 37,463 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<path d="M 37,463 L 37,405 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="34 411, 37 405, 40 411" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="0" y="352" width="120" height="53" rx="6" ry="6" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(98%,91%,87%); fill-rule: evenodd;"/>
+			<text x="33.243" y="390.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,781) scale(1,-1)">Blocked DNS</text>
+			<text x="31.991999999999997" y="378.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,757) scale(1,-1)">Forge reply or</text>
+			<text x="35.9925" y="366.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,733) scale(1,-1)">silently drop</text>
+			<path d="M 255,443 L 255,405 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="252 411, 255 405, 258 411" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<text x="259.0" y="429.0" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,858) scale(1,-1)">Allowed</text>
+			<rect x="151" y="352" width="208" height="53" rx="6" ry="6" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,94%,94%); fill-rule: evenodd;"/>
+			<text x="208.4835" y="384.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,769) scale(1,-1)">Intercepted UDP DNS?</text>
+			<text x="193.485" y="372.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,745) scale(1,-1)">Virtual DNS / combined rewrite</text>
+			<path d="M 359,378 L 438,378 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="432 375, 438 378, 432 381" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<text x="402.5" y="383.0" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,766) scale(1,-1)">No</text>
+			<path d="M 438,378 L 438,303 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="435 309, 438 303, 441 309" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="377" y="245" width="130" height="58" rx="6" ry="6" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,94%,94%); fill-rule: evenodd;"/>
+			<text x="404.74" y="286.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,572) scale(1,-1)">WireGuard active?</text>
+			<text x="404.227" y="274.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,548) scale(1,-1)">Queue captured IP</text>
+			<text x="409.4875" y="262.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,524) scale(1,-1)">or no forwarding</text>
+			<path d="M 255,352 L 255,316 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="252 322, 255 316, 258 322" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<text x="259.0" y="339.0" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,678) scale(1,-1)">Yes</text>
+			<rect x="151" y="261" width="208" height="55" rx="6" ry="6" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,94%,94%); fill-rule: evenodd;"/>
+			<text x="228.7425" y="300.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,601) scale(1,-1)">Smart Cache</text>
+			<text x="227.118" y="288.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,577) scale(1,-1)">Fresh -&gt; reply</text>
+			<text x="194.2275" y="276.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,553) scale(1,-1)">Eligible stale -&gt; reply + refresh</text>
+			<path d="M 255,261 L 255,226 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="252 232, 255 226, 258 232" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<text x="259.0" y="248.5" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,497) scale(1,-1)">Miss / refresh</text>
+			<rect x="151" y="174" width="208" height="52" rx="6" ry="6" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,94%,94%); fill-rule: evenodd;"/>
+			<text x="196.716" y="212.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,424) scale(1,-1)">Bounded / coalesced request</text>
+			<text x="191.748" y="200.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,400) scale(1,-1)">DoH (Swift) or DNSCrypt (Rust)</text>
+			<text x="198.4845" y="188.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,376) scale(1,-1)">Relay optional for DNSCrypt</text>
+			<path d="M 255,174 L 255,139 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="252 145, 255 139, 258 145" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="151" y="84" width="208" height="55" rx="6" ry="6" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,94%,94%); fill-rule: evenodd;"/>
+			<text x="184.971" y="123.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,247) scale(1,-1)">Validate DNS identity and structure</text>
+			<text x="208.7355" y="111.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,223) scale(1,-1)">Cache eligible answers</text>
+			<text x="205.986" y="99.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,199) scale(1,-1)">Build client UDP/IP reply</text>
+			<path d="M 438,245 L 438,209 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="435 215, 438 209, 441 215" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="377" y="147" width="130" height="62" rx="6" ry="6" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,94%,94%); fill-rule: evenodd;"/>
+			<text x="410.7385" y="196.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,392) scale(1,-1)">Rust BoringTun</text>
+			<text x="403.23699999999997" y="184.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,368) scale(1,-1)">UDP peer transport</text>
+			<text x="403.97950000000003" y="172.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,344) scale(1,-1)">Authenticate return</text>
+			<text x="400.483" y="160.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,320) scale(1,-1)">Poll plaintext to Swift</text>
+			<path d="M 438,147 L 438,45 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="435 51, 438 45, 441 51" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 255,84 L 255,45 Z" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="252 51, 255 45, 258 51" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(43%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="151" y="2" width="356" height="43" rx="6" ry="6" style="stroke: rgb(43%,58%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,94%,94%); fill-rule: evenodd;"/>
+			<text x="242.59550000000002" y="29.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,59) scale(1,-1)">packetFlow.writePackets -&gt; iOS application</text>
+			<text x="235.57999999999998" y="17.5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,24%,27%); stroke:none;" transform="translate(0,35) scale(1,-1)">Decisions -&gt; bounded logs -&gt; SQLite -&gt; app UI</text>
+		</g>
+	</g>
+</svg>
