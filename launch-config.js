@@ -6,6 +6,6 @@ window.geauxLaunch = {
   updated: "", // e.g. "September 15, 2026" — update with the confirmed total
   supportURL: "https://buymeacoffee.com/frostedplanet",
   discordURL: "https://discord.gg/GFHPEzPxmA",
-  testFlightURL: "https://testflight.apple.com/join/dQbw7aDW", // Paste your public https://testflight.apple.com/join/... invite.
+  testFlightURL: "https://testflight.apple.com/join/dQbw7aDW",
   supporters: [] // Opt-in display names only, e.g. ["Anonymous supporter"]
 };
