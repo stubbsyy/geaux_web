@@ -23,7 +23,7 @@
     if (url) document.querySelectorAll(selector).forEach(a => a.href = url);
   }
   const betaLink = document.querySelector('[data-beta]');
-  if (beta) { betaLink.href = beta; betaLink.textContent = 'Join the TestFlight Beta'; }
+  if (beta) { betaLink.href = beta; betaLink.textContent = 'Join the TestFlight Beta'; betaLink.target = '_blank'}
   else if (discord) { betaLink.href = discord; }
   const names = Array.isArray(c.supporters) ? c.supporters.filter(n => typeof n === 'string' && n.trim()).slice(0,200) : [];
   const list = document.getElementById('supporter-list');
